@@ -1,4 +1,4 @@
-# Logistic Regression
+# Classification template
 
 # Importing the dataset
 dataset = read.csv('Social_Network_Ads.csv')
